@@ -1,0 +1,33 @@
+4. Audience Targeting & Personalization
+Lookalike & Custom Audiences
+Behavioral Triggers (abandoned cart, engagement)
+Dynamic Personalization (website, email, ads)
+
+
+
+4. Audience Targeting & Personalization
+Rafiki Pet Hospital
+Lookalike & Custom Audiences
+Rafiki Pet Hospital leveraged custom and lookalike audience targeting to reach households likely to engage with veterinary services. Using survey data and historical client information, the campaign identified high-value segments for paid social campaigns, search ads, and email marketing. Lookalike audiences expanded reach to similar potential clients based on existing loyal customers.
+
+Audience modeling was performed using CRM data, social media pixel tracking, and online behavior analytics. Insights allowed the creation of precise, highly relevant messaging to increase conversions.
+
+Audience Metrics
+Segment	Value
+Primary audience size (households)	24,000 pet HHs
+Digital reachable audience (70%)	~16,800 households
+High-value households (70% of reachable)	~11,760 HHs
+Audience split (cats/dogs/other)	55% cats / 40% dogs / 5% other
+Main age bracket	25–44 (68%)
+Retargeting pool estimate	~18,000 unique users
+Geotarget radius	7 km
+Language preference	Arabic 70% / English 30%
+Behavioral Triggers
+Behavioral triggers were set to automatically engage pet owners based on their interactions. Abandoned booking attempts, engagement with social content, or email opens prompted personalized follow-ups, reminders, or targeted offers. These triggers increased conversion rates and fostered loyalty.
+
+Trigger rules were implemented using marketing automation platforms and analytics tools. Response patterns were continuously monitored and optimized for best performance.
+
+Dynamic Personalization
+Dynamic personalization ensured that website, email, and ad content reflected the specific interests and needs of each pet owner. Personalized service recommendations, reminders, and content increased engagement, customer satisfaction, and return visits.
+
+Personalization used CRM insights, user behavior analytics, and adaptive content rules across all channels. Testing and iterative optimization ensured messaging remained highly relevant and effective.

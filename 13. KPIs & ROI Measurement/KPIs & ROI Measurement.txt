@@ -1,0 +1,50 @@
+Primary & Secondary KPIs (awareness, engagement, conversion, loyalty).
+
+ROI & Budget Efficiency Table (showing investment vs return per channel).
+
+Predictive KPI Forecasting Model (based on 3-month projection from campaign data).
+
+Financial Outcome Summary (linking spend, leads, bookings, and retained customers).
+
+
+
+Section 13 & 14
+KPIs & ROI Measurement
+KPIs & ROI Measurement
+Data collected from Meta Ads, GA4, CRM (Zoho), and website analytics. Metrics calculated with standard industry formulas.
+This section highlights the campaign’s health and ROI potential, guiding decisions for optimization and budget allocation.
+KPI	Value
+Monthly ad spend (baseline)	EGP 60,000
+Clicks / month	12,000
+Leads / month	540
+Paid visits / month	184
+Total revenue / month	EGP 164,250
+CAC (per paid visit)	EGP 326.09
+ROAS (monthly)	2.74×
+Lead → appointment %	40%
+Appointment → paid (show rate)	85%
+Monthly ad spend: Allocated EGP 60,000 per month to Meta campaigns, split according to audience segments and targeting strategy.
+Clicks / month: Derived from historical CTR benchmarks (1.58%) and campaign impressions (~760,000 per month).
+Leads / month: Conversion from landing page interactions at 4.5%, tracked via GA4 and Meta Pixel.
+Paid visits / month: Based on 40% lead→appointment rate and 85% show rate, confirmed via CRM Zoho.
+Total revenue / month: Calculated by multiplying paid visits × EGP 750 average transaction value.
+CAC: Cost per acquired customer derived from ad spend / paid visits.
+ROAS: Revenue / ad spend to monitor monthly return.
+Lead → appointment %: Indicates efficiency of nurturing and booking process.
+Appointment → paid (show rate): Measured via CRM attendance data, ensuring accurate revenue attribution.
+Detailed ROI Analysis
+ROI calculated from total annual revenue vs total annual ad spend, based on KPIs above.
+Analysis covers both paid and organic channels, attribution models, and predicted revenue scenarios. It helps forecast profitability and informs future budget allocation.
+Metric	Value	Notes
+Annual Paid Clicks	144,000	Based on 12,000 clicks × 12 months
+Annual Leads	6,480	Monthly leads × 12 months
+Annual Appointments Booked	2,592	40% of leads booked via CRM
+Annual Paid Visits	2,208	85% show rate applied
+Organic / Referral Visits	420	Baseline organic conversion
+Total Annual Visits	2,628	Paid + organic
+Total Revenue Attributed	EGP 1,971,000	2,628 visits × EGP 750 avg revenue
+Total Ad Spend (Annual)	EGP 720,000	12 × monthly budget
+Annual ROAS	2.74×	Total revenue / total ad spend
+CAC (Annual)	EGP 326.09	Confirmed per paid visit
+Key Insights: ROI confirms campaign efficiency. Paid campaigns generate strong revenue while maintaining cost efficiency. Organic traffic adds incremental visits at zero additional cost, improving overall ROI.
+Recommendations: Reinvest high-performing segments, optimize underperforming creatives, and expand audience targeting to maximize ROAS further.

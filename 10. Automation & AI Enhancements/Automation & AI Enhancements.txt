@@ -1,0 +1,40 @@
+10. Automation & AI Enhancements
+AI-driven Copy & Predictive Bidding
+Dynamic Email Personalization
+Automated Social Scheduling
+Chatbots for Lead Capture
+
+
+10. Automation & AI Enhancements
+Rafiki Pet Hospital
+Automation & AI Enhancements
+Collected data from Meta Ads Manager, CRM analytics, email marketing platform logs, chatbot flow analytics, and predictive AI tools to track efficiency, lead generation, and conversion uplift.
+
+Objective: Leverage AI and automation to streamline campaign execution, increase lead capture, improve personalization, and maximize efficiency in social media and email campaigns.
+
+Automation & AI Use-Cases
+Automation	Effect / Volume
+Chatbot Flows	5 distinct flows handling FAQs, booking reminders; 140 chatbot leads / mo
+Email Drip Sequences	3 sequences; 8 automated messages per lead cycle targeting engagement, education, and booking
+Predictive Scheduling	Optimized posting & ad scheduling; Expected +12% show-rate uplift
+Lead Scoring Model	F1 score 0.88 (88% accuracy in predicting high-value leads)
+Software & Tools Used
+Meta Ads Manager (FB & IG)
+Google Analytics 4 & GTM
+Zoho CRM (Lead tracking, scoring, and automation)
+HubSpot / Email Marketing Platform (Automated drip sequences)
+Chatbot Platform (Custom 5 flows, integrated with landing pages)
+Predictive AI Tool for scheduling & budget optimization
+Canva / Adobe Creative Suite (content creation automation support)
+Strategy
+Automate repetitive tasks: social posting, email follow-ups, lead capture
+Use predictive AI for ad scheduling to maximize CTR and bookings
+Dynamic email personalization for higher engagement and retention
+Chatbot flows to capture cold leads and nurture warm leads automatically
+Regularly monitor AI performance and adjust thresholds to maximize efficiency
+Expected Outcomes
+Increase lead capture efficiency by ~20%
+Reduce manual workload for social & email campaigns by 50%
+Predictive scheduling and AI optimization to lift show rate by 12%
+High-quality lead conversion with F1 score 88%
+Streamlined multi-channel campaign execution and reporting

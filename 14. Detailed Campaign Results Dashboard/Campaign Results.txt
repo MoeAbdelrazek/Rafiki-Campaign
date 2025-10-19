@@ -1,0 +1,30 @@
+Executive Performance Overview (highlights & ROI)
+
+Social Media (Meta) Analytics
+
+SEO Performance Dashboard
+
+Attribution & Conversion Mapping
+
+A/B Testing & Optimization Outcomes
+
+Financial & ROI Summary (in EGP)
+
+
+Section 14
+Detailed Campaign Results Dashboard (Y1)
+Detailed Campaign Results Dashboard (Y1)
+All data collected from Meta Ads Manager, GA4, and CRM Zoho. Annual totals computed from monthly KPIs and conversion assumptions.
+This dashboard summarizes the campaign’s yearly performance, highlighting paid and organic conversions, visits, revenue, and ROAS for Year 1.
+Metric	Yearly Total	Notes
+Paid clicks (annual)	144,000	12,000 clicks × 12 months
+Leads generated (annual)	6,480	Monthly leads × 12 months
+Appointments booked (annual)	2,592	40% of leads booked via CRM
+Paid visits (annual)	2,208	85% show rate applied
+Organic / referral visits (annual)	420	Baseline organic conversion
+Total visits (annual)	2,628	Paid + organic
+Total revenue attributed (annual)	EGP 1,971,000	Total visits × EGP 750 avg revenue
+Total ad spend (annual)	EGP 720,000	12 × monthly budget
+Annual ROAS	2.74×	Total revenue / total ad spend
+Insights: Paid campaigns drove most conversions; organic traffic contributed incremental visits. ROI of 2.74× indicates efficient ad spend utilization.
+Recommendations: Increase spend on high-performing Meta segments and expand organic SEO efforts to maximize Year 2 performance.

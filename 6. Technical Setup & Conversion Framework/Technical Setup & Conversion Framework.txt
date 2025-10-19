@@ -1,0 +1,44 @@
+6. Technical Setup & Conversion Framework
+Landing Pages (responsive, fast, conversion-optimized)
+Analytics Setup (GA4, GTM, pixels, UTMs)
+CRM & Automation Tools
+CRO Layer: Heatmaps, Funnel Analysis, Multi-step Forms, Chatbots, Exit Popups
+
+
+6. Technical Setup & Conversion Framework
+Rafiki Pet Hospital
+Landing Pages & Booking Flow
+Our campaign leverages three responsive and fast landing pages designed for optimal conversions. Each page features a clean layout, clear CTA buttons, and concise information guiding pet owners through the booking process seamlessly.
+
+CRO-focused design ensures reduced friction. Multi-step forms (4–6 fields) capture necessary data while minimizing abandonment. Storytelling and reassurance elements improve engagement and trust.
+
+Booking forms collect Name, Phone, Pet Type, and Preferred Time. Real-time validation ensures accurate submissions and reduces errors, contributing to higher conversion rates.
+
+Form design follows UX best practices, tested across devices for accessibility and speed, aiming for 6.5% CVR on the landing pages.
+
+Item	Value
+Landing pages (variants)	3
+Booking form fields	4–6 (Name, Phone, Pet Type, Preferred Time)
+Landing page CVR (goal)	6.5%
+Analytics & Tracking Setup
+All landing pages and ad campaigns are integrated with GA4, GTM, and Meta Pixel, ensuring comprehensive tracking of user interactions. Custom UTMs and conversion events are configured to attribute results accurately.
+
+Analytics setup follows strict methodology to capture traffic, form submissions, clicks, and engagement metrics. Ensures campaign optimizations are data-driven.
+
+Call tracking lines are established: one for Meta ads, one for organic traffic. This helps isolate channel performance and optimize budget allocation.
+
+Call tracking integrates seamlessly with CRM and reporting dashboards for precise lead tracking.
+
+Item	Value
+Pixels & tags installed	Meta Pixel, GA4, GTM (7 trackers total)
+Call tracking lines	2 (ads + organic)
+Website baseline traffic (2024)	2,800 visits / mo
+Target traffic (2025)	7,000 visits / mo
+CRM & CRO Layer
+CRM: Zoho is implemented to capture all leads, schedule follow-ups, and manage client interactions efficiently. Yearly subscription: EGP 6,000.
+
+Automation allows segmentation, reminders, and retention campaigns. Ensures leads are nurtured, improving retention and repeat visits.
+
+Conversion Rate Optimization (CRO) includes heatmaps, funnel analysis, multi-step forms, chatbots, and exit popups to maximize conversion potential from all traffic.
+
+Data-driven experimentation ensures each landing page, form, and CTA is optimized based on user behavior insights. Tools provide actionable recommendations for design and copy adjustments.

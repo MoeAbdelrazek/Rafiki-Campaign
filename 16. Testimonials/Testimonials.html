@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rafiki Pet Hospital - Testimonials & Social Proof</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+    @page { size: A4; margin: 0; }
+
+    body {
+        font-family: 'Times New Roman', serif;
+        color: #5a3e36;
+        background: linear-gradient(145deg, #fdf5ed, #fceedd);
+        margin: 0; padding: 0;
+    }
+
+    .page {
+        width: 210mm; height: 297mm;
+        padding: 20mm;
+        box-sizing: border-box;
+        border: 6px solid #5a3e36;
+        border-radius: 30px;
+        margin: 0 auto 20mm;
+        position: relative;
+        display: flex; flex-direction: column; justify-content: flex-start;
+        background: #fff9f3;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+
+    .inner-border {
+        width: 100%; height: 100%;
+        border: 3px dashed #d6a77a;
+        border-radius: 25px;
+        padding: 20px;
+        box-sizing: border-box;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .inner-border::before {
+        content: "🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾";
+        position: absolute;
+        font-size: 60px;
+        top: -20%; left: -20%;
+        width: 140%; height: 140%;
+        color: rgba(214,167,122,0.08);
+        transform: rotate(15deg);
+        z-index: 0;
+    }
+
+    h1, h2, h3 { color: #5a3e36; margin-bottom: 12px; position: relative; z-index: 1; }
+    h1 { font-size: 34px; text-align: left; margin-top: 0; border-bottom: 2px solid #8b5e3c; padding-bottom: 6px; letter-spacing: 1px; }
+    h2 { font-size: 22px; margin-top: 20px; text-decoration: underline; text-decoration-color: #d6a77a; text-decoration-thickness: 2px; }
+    h3 { font-size: 20px; margin-top: 16px; }
+
+    p, ul, table { position: relative; z-index: 1; }
+    p, ul { font-size: 18px; margin-bottom: 12px; text-align: justify; }
+    ul { margin-left: 20px; }
+
+    table {
+        width: 100%; border-collapse: separate; border-spacing: 0;
+        margin-bottom: 16px; border-radius: 12px; overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+        position: relative; z-index: 1;
+    }
+    th, td { padding: 10px; text-align: left; font-size: 18px; border-bottom: 1px solid #d6a77a; }
+    th { background-color: #f9e6d1; }
+    tr:nth-child(even) { background-color: #fff3e0; }
+
+    .methodology, .storytelling {
+        margin-bottom: 16px; padding: 12px 16px;
+        border-left: 6px solid #d6a77a; background-color: rgba(214,167,122,0.1);
+        border-radius: 12px; font-style: italic; position: relative; z-index: 1;
+    }
+    .methodology::before, .storytelling::before { content: "🐾"; position: absolute; left: 8px; top: 8px; font-size: 18px; }
+
+    .page-break { page-break-before: always; }
+
+    .cover-page { display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
+    .cover-page::before {
+        content: "🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾";
+        position: absolute; font-size: 100px;
+        top: -35%; left: -25%; width: 160%; height: 160%;
+        color: rgba(214,167,122,0.22); transform: rotate(25deg); z-index: 0;
+    }
+    .cover-box {
+        position: relative; border: 6px double #5a3e36;
+        padding: 80px; text-align: center; background: rgba(255,255,255,0.95);
+        border-radius: 25px; box-shadow: 0px 12px 20px rgba(0,0,0,0.2); z-index: 1;
+    }
+    .cover-box h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 50px; margin: 0; color: #5a3e36; line-height: 1.2;
+    }
+</style>
+</head>
+<body>
+
+<!-- Cover Page -->
+<div class="page cover-page">
+    <div class="cover-box">
+        <h1>Section 16<br>Testimonials & Social Proof</h1>
+    </div>
+</div>
+
+<!-- Testimonials Content Page -->
+<div class="page">
+    <div class="inner-border">
+        <h1>Testimonials & Social Proof</h1>
+
+        <div class="methodology">
+            Data gathered from client surveys, post-appointment feedback, video testimonials, and online review analysis. Metrics designed to measure trust, satisfaction, and referral potential.
+        </div>
+
+        <div class="storytelling">
+            Collecting testimonials and social proof enhances credibility, showcases results, and drives engagement. This section includes numerical targets, methods of collection, and expected outcomes for trust-building.
+        </div>
+
+        <table>
+            <tr><th>Item</th><th>Target</th><th>Notes</th></tr>
+            <tr><td>Testimonials collected (year)</td><td>60 verified</td><td>Focus on detailed written and video feedback from clients</td></tr>
+            <tr><td>Video testimonials</td><td>6</td><td>Highlight real pet owners sharing their stories</td></tr>
+            <tr><td>Avg rating goal</td><td>4.8 / 5</td><td>Aggregated across Google, Facebook, and internal surveys</td></tr>
+            <tr><td>Survey sample</td><td>600 sent; 70% response rate expected</td><td>Surveys post-appointment and via email</td></tr>
+            <tr><td>NPS target</td><td>+60 or higher</td><td>Net Promoter Score as measure of loyalty & advocacy</td></tr>
+        </table>
+
+    </div>
+</div>
+
+</body>
+</html>

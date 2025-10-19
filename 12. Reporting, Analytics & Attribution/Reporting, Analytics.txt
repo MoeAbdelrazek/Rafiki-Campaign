@@ -1,0 +1,149 @@
+12. Reporting, Analytics & Attribution
+Campaign Reports & Insights
+Multi-Touch Attribution Models (last-click, linear, time-decay)
+Dashboarding (Looker Studio, Tableau)
+
+
+1. Overview & Brand Foundation
+1. Overview & Brand Foundation - Numerical Analysis
+Metric	Value	Analysis
+Business Name	Rafiki Pet Hospital	—
+Location	New Cairo, Egypt	Urban pet-owner density focus
+Planning Population (2025)	320,000 residents	Used for market sizing
+Average Household Size	4.0 persons / HH	Estimate total households
+Total Households	80,000	Calculated: 320,000 ÷ 4
+Pet-owning Households (30%)	24,000	Targetable households
+Total Pets (avg 1.4 per HH)	33,600	24,000 × 1.4
+Vet visits per pet/year	1.6	Annual potential volume
+Total potential annual visits	53,760	33,600 × 1.6
+Average revenue / visit	EGP 750	Baseline AOV
+Addressable market	EGP 40,320,000	53,760 × 750
+Year 1 market share target	2.5% (1,344 visits)	Conservative market penetration
+Year 1 target revenue	EGP 1,008,000	1,344 × 750
+2. Research & Discovery
+2. Research & Discovery - Numerical Analysis
+Item	Numeric Value	Analysis
+Competitive clinics in 5km	9 major vet centers	Local density / competition
+Competitor clinics registered	13 hospitals, 21 clinics	Total 34 clinics; moderate saturation
+Avg consultation fee	EGP 650 – 900	Pricing benchmark
+Median local digital ad spend	EGP 40,000 – 70,000 / mo	Baseline for paid media
+Pet types split	Dogs 54%, Cats 38%, Other 8%	Guides targeting and messaging
+Seasonal peaks	Vaccinations Jan–Mar, Grooming May–Aug	Informs campaign timing
+Survey sample size	400 respondents	Statistical confidence for local insights
+3. Strategy Development
+3. Strategy Development - Numerical Analysis
+Metric	Value	Analysis
+Campaign duration	12 months (Jan–Dec 2025)	Annual plan for consistent reach
+Annual ad budget	EGP 720,000	Baseline for channel allocation
+Alternate marketing budget	EGP 520,000	Flexible budget option
+Budget allocation (paid)	38% → EGP 197,600	Highest ROI allocation
+Organic & SEO	15% → EGP 78,000	Long-term traffic growth
+Content creation	22% → EGP 114,400	Supports social, email, blogs
+Automation & tools	10% → EGP 52,000	Chatbots, predictive scheduling, analytics
+Contingency	15% → EGP 78,000	Risk mitigation
+Year 1 visits goal	~2,628	Paid + organic traffic forecast
+4. Audience Targeting & Personalization
+4. Audience Targeting - Numerical Analysis
+Segment	Value	Analysis
+Primary audience size	24,000 pet HHs	Total pet-owning households
+Digital reachable audience	~16,800 HHs	70% reachable online
+High-value households	~11,760 HHs	Top 70% of reachable audience
+Audience split	55% cats / 40% dogs / 5% other	Targeted creatives per pet type
+Main age bracket	25–44 (68%)	Core social media demographic
+Retargeting pool	~18,000 unique users	Previous website and ad engagements
+Geotarget radius	7 km	Local focus
+Language preference	Arabic 70% / English 30%	Messaging alignment
+5. Creative & Content Engine
+5. Creative & Content Engine - Numerical Analysis
+Asset	Quantity / Month	Benchmarks / Cost
+Static posts (FB/IG)	12	Engagement 2.5–3% / EGP 1,200 per asset
+Reels / Shorts	8	View rate +150% vs static / EGP 2,400
+Stories	25	Avg view rate 18%
+Carousel ads	6	CTR ~1.4%
+Blog posts	4	SEO uplift / EGP 1,000 each
+Email newsletters	2	Open rate 26% / CTR 4%
+Quarterly video ads	16 per quarter	Cost per video EGP 3,200
+6. Technical Setup & Conversion Framework
+6. Technical Setup - Numerical Analysis
+Item	Value	Analysis
+Website baseline traffic (2024)	2,800 visits / mo	Starting point for growth
+Target traffic (2025)	7,000 visits / mo	Target uplift
+Landing pages (variants)	3	A/B testing variants
+Booking form fields	4–6 fields	Minimal friction
+Landing page CVR (goal)	6.5%	Conversion target
+Pixels & tags	Meta Pixel, GA4, GTM (7)	Full tracking coverage
+Call tracking lines	2	One for ads, one organic
+CRM	Zoho (EGP 6,000 / year)	Data centralization
+7. SEO & Organic Growth
+7. SEO & Organic Growth - Numerical Analysis
+Metric	Baseline	12-mo Goal	Analysis
+Domain Authority	19	35	SEO authority growth
+Monthly organic sessions	980	3,200	Traffic growth target
+Blog posts / year	48	48	Content consistency
+Keywords targeted	80	120	Keyword expansion
+Backlinks target	0	+110	Link building
+Local pack goal	Top 10	Top 3	Local visibility
+8. Paid & Organic Execution
+8. Paid & Organic Execution - Numerical Analysis
+Channel	Monthly Spend	Impressions	Clicks	Leads	Analysis
+Meta (FB+IG)	EGP 11,000	~2,100,000	60,900	1,420	Primary paid channel
+Google Search	EGP 5,416	410,000	22,960	720	Search intent leads
+Total Paid (baseline)	EGP 60,000 / mo	—	12,000 / mo	540 / mo	Monthly goal alignment
+Organic & Referrals	—	—	—	35 visits / mo	Baseline organic
+9. Marketing Funnel & Stages
+9. Marketing Funnel - Numerical Analysis
+Stage	Rate / Value	Volume (monthly)	Analysis
+Ad Impressions (monthly)	—	~760,000	Top of funnel reach
+CTR (ads)	1.58%	~12,000 clicks	Ad engagement rate
+Landing Page Conversion	4.5%	540 leads	Click-to-lead conversion
+Lead → Booked	40%	216 booked appts	Lead qualification
+Booked → Paid	85%	184 paid visits	Show-rate efficiency
+Organic / Referral Visits	—	35 / mo	Complementary traffic
+Total Visits	—	219 / mo	Paid + organic
+10. Automation & AI Enhancements
+10. Automation & AI - Numerical Analysis
+Automation	Effect / Volume	Analysis
+Chatbot flows	5 flows; 140 leads / mo	Lead capture efficiency
+Email drip sequences	3 sequences; 8 messages per lead cycle	Personalization impact
+Predictive scheduling	+12% show-rate uplift	Optimized appointments
+Lead scoring model	F1 score 0.88	Lead prioritization accuracy
+Softwares used	Zoho CRM, Meta Ads Manager, GA4, GTM	End-to-end automation
+11. Testing & Optimization
+11. Testing & Optimization - Numerical Analysis
+Test Type	Count / Mo	Threshold	Analysis
+Ad creative variants	12	≥1,000 impressions / variant	Monitor ad performance
+Landing page versions	3	Test window 14 days	Maximize CVR
+Email subject tests	4	95% confidence	Improve open rates
+Optimization rounds	2 full cycles / mo	Reallocate +20% budget	Continuous improvement
+12. Reporting, Analytics & Attribution
+12. Reporting & Attribution - Numerical Analysis
+Item	Value	Analysis
+Attribution window	7-day click + 30-day view	Multi-touch insights
+Dashboards	4 Looker Studio dashboards	Real-time tracking
+Key events tracked	22	Comprehensive behavior capture
+Reporting frequency	Weekly + monthly executive	Timely insights
+Data retention	24 months	Historical analysis
+13. KPIs & ROI Measurement
+13. KPIs & ROI - Numerical Analysis
+KPI	Value	Analysis
+Monthly ad spend	EGP 60,000	Baseline budget
+Clicks / month	12,000	CTR performance
+Leads / month	540	Conversion funnel output
+Paid visits / month	184	Booked appointments
+Total revenue / month	EGP 164,250	Revenue projection
+CAC (per paid visit)	EGP 326.09	Cost efficiency
+ROAS (monthly)	2.74×	Return on ad spend
+Lead → appointment %	40%	Funnel efficiency
+Appointment → paid	85%	Show rate success
+14. Detailed Campaign Results Dashboard (Y1)
+14. Campaign Results - Numerical Analysis
+Metric	Yearly Total	Analysis
+Paid clicks (annual)	144,000	High engagement with ads
+Leads generated (annual)	6,480	Lead generation efficiency
+Appointments booked	2,592	Conversion to consultations
+Paid visits	2,208	Revenue-driving visits
+Organic / referral visits	420	Supplementary traffic
+Total visits	2,628	Overall footfall
+Total revenue attributed	EGP 1,971,000	Annual ROI
+Total ad spend	EGP 720,000	Budget accountability
+Annual ROAS	2.74×	Return on investment

@@ -1,0 +1,29 @@
+11. Testing & Optimization
+A/B Testing for Creatives, Landing Pages
+Real-time KPI Tracking
+Iterative Refinement of Budget & Targeting
+
+
+11. Testing & Optimization
+Rafiki Pet Hospital
+Testing & Optimization
+Data collected from Meta Ads Manager, landing page analytics, email campaign reports, and CRM tracking to monitor ad performance, lead conversions, and engagement metrics. Statistical thresholds and confidence intervals were established for robust A/B testing.
+
+Strategy: Iteratively test all creative assets, landing pages, and email subjects to determine top-performing variants. Apply continuous optimization to budget allocation and targeting to maximize ROI and conversions while minimizing wasted spend.
+
+A/B Testing Cadence
+Test Type	Count / Month	Threshold
+Ad Creative Variants	12	≥ 1,000 impressions / variant
+Landing Page Versions	3	Test window 14 days
+Email Subject Tests	4	95% confidence interval
+Optimization Rounds	2 full cycles / mo	Reallocate +20% budget to winners
+Methodology
+Randomized assignment of traffic to creative or landing page variants.
+Track KPIs: CTR, CVR, lead-to-booking ratio, and revenue per campaign.
+Statistical significance calculated using 95% confidence threshold to ensure reliable insights.
+Iterative optimization: underperforming variants paused, budget reallocated to top performers.
+Expected Outcomes
+Increase conversion efficiency by ~15–20% per cycle
+Higher ROI on Meta paid campaigns via continuous learning
+Improved email open & click-through rates through subject line optimization
+Data-driven insights for future campaigns and predictive AI models

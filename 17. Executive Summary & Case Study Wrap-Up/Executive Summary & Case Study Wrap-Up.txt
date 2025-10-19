@@ -1,0 +1,16 @@
+Executive Summary & Case Study Wrap-Up
+
+Section 17
+Executive Summary & Case Study Wrap-Up
+Executive Summary & Case Study Wrap-Up
+Data aggregated from Year 1 campaign performance across all paid and organic channels, including visits, revenue, CAC, and retention projections.
+This section highlights high-level results, ROI, and strategic outcomes, providing a concise overview of the campaign’s effectiveness and areas of growth for Year 2.
+Metric	Value	Notes
+Campaign length	12 months (2025)	Full year baseline campaign
+Total ad spend (annual)	EGP 720,000	Paid channels only
+Total attributed revenue	EGP 1,971,000	Revenue attributed via tracking and conversion models
+Annual ROAS	2.74×	Return on ad spend calculation
+Total paid visits (annual)	2,208	Visits generated from paid campaigns
+Total visits incl. organic	2,628	Paid + organic + referral traffic
+Average CAC	EGP 326.09	Cost per acquired paid visit
+Projected Y2 uplift from retention	+20% revenue growth	Estimated growth based on retention and loyalty programs

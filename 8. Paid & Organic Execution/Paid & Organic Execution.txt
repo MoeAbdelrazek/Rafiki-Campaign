@@ -1,0 +1,32 @@
+8. Paid & Organic Execution
+Paid Ads: Objectives, Targeting, Retargeting Sequences, Multi-channel Funnel
+Organic: Blogs, Social Media, SEO Content
+Influencer & Advocacy: Micro-influencers, Employee Advocacy, Community Building
+
+8. Paid & Organic Execution
+Rafiki Pet Hospital
+8. Paid & Organic Execution
+This section outlines the full paid and organic digital strategy for Rafiki Pet Hospital. Paid campaigns focus on Meta platforms (FB + IG) with clear objectives, multi-step retargeting sequences, and audience segmentation for optimal reach. Organic efforts include consistent blog posts, social media content, and SEO-optimized pages. Micro-influencers and community advocacy supplement paid traffic and engagement.
+
+Paid Media Execution
+Paid campaigns were designed using a multi-channel funnel approach. Key objectives included increasing appointments, driving website traffic, and boosting engagement. Audience targeting included primary pet owners, high-value households, and expat residents. Retargeting sequences were built to capture engagement at multiple stages of the funnel.
+
+Channel	Monthly Spend (EGP)	Impressions	Clicks	Leads
+Meta (FB + IG)	11,000	~2,100,000	60,900	1,420
+Google Search	5,416	410,000	22,960	720
+Total Paid (baseline)	60,000	—	12,000 / mo	540 / mo
+Organic & Referrals	—	—	—	35 visits / mo
+Budget allocations follow the Year 1 baseline of EGP 720,000, with monthly apportionment reflecting section 3 strategy splits. Paid campaigns include ad variations, carousel creatives, reels, and story sequences to ensure continuous engagement and funnel optimization.
+
+Organic Execution
+Organic content includes SEO-optimized blog posts (4 per month), social media static posts, reels, and stories. Meta posts are scheduled according to seasonal peaks (vaccinations: Jan–Mar, grooming: May–Aug). Each content piece integrates keywords identified in Section 7, supporting organic ranking growth and engagement.
+
+Meta Static Posts: 12 / month | Avg engagement: 2.5–3% | Cost per post: EGP 1,200
+Reels / Shorts: 8 / month | Avg view rate: +150% vs static | Cost per reel: EGP 2,400
+Stories: 25 / month | Avg view rate: 18%
+Blog Posts: 4 / month | SEO uplift | Cost: EGP 1,000 per post
+Email Newsletters: 2 / month | Open rate: 26% | CTR: 4%
+Influencer & Advocacy
+Micro-influencers targeting pet owners in New Cairo were engaged to promote awareness and referral. Employee advocacy programs encouraged staff to share educational content. Community-building initiatives included contests, live Q&A sessions, and local events. These actions aim to reinforce organic traffic, foster brand trust, and increase both paid and organic conversions.
+
+All campaigns are continuously monitored through Meta Ads Manager, GA4, and CRM tracking to ensure KPIs are met. Adjustments are made based on CTR, CPC, lead quality, and conversions to optimize budget efficiency and performance.

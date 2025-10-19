@@ -1,0 +1,66 @@
+7. SEO & Organic Growth
+Keyword Research & Intent Mapping
+On-page SEO (titles, meta, headings)
+Technical SEO (speed, schema, mobile)
+Backlink Strategy & Outreach
+
+
+7. SEO & Organic Growth
+Rafiki Pet Hospital
+Keyword Research & Intent Mapping
+Our SEO strategy began with comprehensive keyword research covering over 500 terms segmented by pet type: dogs, cats, grooming, vaccination, and general pet care. Using Ahrefs, SEMrush, and Google Keyword Planner, we collected search volume, CPC, keyword difficulty, and competitor overlap for each keyword.
+
+Keywords were classified by search intent: informational, transactional, navigational, and local searches. We mapped each keyword to specific Meta posts, landing pages, and blog content for strategic alignment. Seasonal patterns were incorporated, ensuring content aligns with vaccination (Jan–Mar) and grooming (May–Aug) peaks.
+
+Competitor gap analysis identified opportunities missed by 9 nearby vet clinics. Keywords relevant to expat residents were added, considering bilingual searches. This ensures a precise match to audience search behavior while maximizing organic visibility.
+
+Category	Top Keywords	Search Volume	CPC (EGP)	Difficulty
+Dogs	dog vaccination, puppy care, dog grooming	1200–3000	7–12	Medium
+Cats	cat checkup, feline health, cat grooming	900–2500	6–10	Medium
+Grooming	pet grooming New Cairo, dog haircut	700–1800	8–14	Low
+Vaccination	pet vaccines, rabies vaccine dog	800–2000	9–15	Medium
+General Pet Care	pet nutrition, pet clinic, vet near me	1000–2800	5–10	Medium
+On-page SEO
+All landing pages and Meta posts were optimized with carefully structured H1-H3 headings, keyword-rich meta titles, and descriptions. Alt-texts were added to every image, with internal linking connecting related pages. FAQ content and schema markup improved snippet appearance in SERPs.
+
+Sample meta titles: “Rafiki Pet Hospital – Vaccinations & Grooming in New Cairo”. Sample meta description: “Book your pet’s checkup, vaccinations, and grooming online at Rafiki Pet Hospital. Trusted vet services for dogs and cats in New Cairo.”
+
+Readability, keyword density, and semantic relevance were tested, ensuring content resonates with both users and search engines. Predicted improvements: CTR +2%, bounce rate −15%.
+
+Page	H1-H3 Structure	Meta Title	Meta Description
+Home	H1: Rafiki Pet Hospital | H2: Services | H3: Featured Posts	Rafiki Pet Hospital – New Cairo Vet Services	Book vaccination and grooming services for your pets in New Cairo.
+Services	H1: Our Services | H2: Vaccinations | H3: Grooming	Rafiki Services – Vaccination & Grooming	Comprehensive care for your pets including vaccinations and grooming services.
+Blog	H1: Pet Care Tips | H2: Dog Care | H3: Cat Care	Pet Care Blog – Rafiki Pet Hospital	Explore expert advice on pet health, nutrition, and grooming.
+Contact	H1: Contact Us | H2: Book Appointment	Contact Rafiki Pet Hospital – New Cairo	Get in touch with us to schedule your pet’s checkup or vaccination today.
+Technical SEO
+We optimized page load times (desktop 1.8s, mobile 2.3s) through compressed images, lazy loading, and caching. Mobile responsiveness was tested on iOS and Android, ensuring consistent layout and usability.
+
+Structured data implemented using JSON-LD for VetClinic, Service, Review. Sitemap.xml and robots.txt submitted to Google Search Console. Canonical tags, 301 redirects, and broken link resolutions applied to ensure indexing efficiency.
+
+Crawl audits with Screaming Frog identified indexing gaps, corrected through redirects and internal linking. Multi-step forms, heatmaps, and funnel tracking were implemented to enhance UX and conversions.
+
+Tools: Google Lighthouse, PageSpeed Insights, GA4, and GTM used to track and validate improvements.
+
+Backlink Strategy & Outreach
+Targeted 30 authoritative local and regional pet blogs, associations, and directories. Content types included guest posts, infographics, guides, and press mentions. Each link carefully aligned with keyword strategy and DA improvement.
+
+Anchor text distribution: branded 40%, exact match 25%, generic 20%, long-tail 15%. Toxic links monitored monthly. Monthly growth tracked for +110 quality backlinks within 12 months.
+
+Target Site	DA	Content Type	Link Type	Expected Referrals
+New Cairo Pet Blog	55	Guest Post	Follow	300
+PetCare Association	60	Press Mention	Follow	250
+Local Pet Directory	48	Listing	NoFollow	200
+Backlinks support DA growth (19 → 35), monthly organic sessions (980 → 3,200), and top 3 local pack placement for New Cairo searches.
+
+Metric	Baseline	12-mo Goal
+Domain Authority	19	35
+Monthly organic sessions	980	3,200
+Blog posts / year	48	48
+Keywords targeted	80	120
+Backlinks target	+0	+110
+Local pack goal	Top 10	Top 3
+Avg CTR	3%	5%
+Avg session duration	1:45	3:20
+Bounce rate	68%	40%
+Organic conversion rate	1.2%	3.5%
+Top 10 keywords ranked	15	45

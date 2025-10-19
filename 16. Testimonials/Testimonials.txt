@@ -1,0 +1,22 @@
+Realistic client and customer testimonials,
+
+Before/after results,
+
+Trust and credibility proof layers,
+
+Visual performance table with consistency to the prior sections,
+
+Reputation metrics (reviews, sentiment analysis, and engagement uplift).
+
+
+Section 16
+Testimonials & Social Proof
+Testimonials & Social Proof
+Data gathered from client surveys, post-appointment feedback, video testimonials, and online review analysis. Metrics designed to measure trust, satisfaction, and referral potential.
+Collecting testimonials and social proof enhances credibility, showcases results, and drives engagement. This section includes numerical targets, methods of collection, and expected outcomes for trust-building.
+Item	Target	Notes
+Testimonials collected (year)	60 verified	Focus on detailed written and video feedback from clients
+Video testimonials	6	Highlight real pet owners sharing their stories
+Avg rating goal	4.8 / 5	Aggregated across Google, Facebook, and internal surveys
+Survey sample	600 sent; 70% response rate expected	Surveys post-appointment and via email
+NPS target	+60 or higher	Net Promoter Score as measure of loyalty & advocacy

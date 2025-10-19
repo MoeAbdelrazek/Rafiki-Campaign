@@ -1,0 +1,124 @@
+9. Marketing Funnel & Stages
+Awareness Stage
+Paid Social, SEO, Display, Influencer Campaigns
+KPIs: Impressions, Reach, Brand Recall
+Consideration Stage
+Retargeting, Educational Content, Email Nurturing
+KPIs: CTR, Engagement, Video Views
+Conversion Stage
+Testimonials, Case Studies, Social Proof Layers
+KPIs: Conversion Rate, CPA, ROAS, Leads
+Retention / Loyalty Stage
+Email Campaigns, Loyalty Rewards, Personalized Offers
+KPIs: Repeat Purchases, CLV, Retention Rate
+Advocacy Stage
+Post-purchase Surveys, UGC Campaigns, Referral Programs
+KPIs: Referrals, UGC, Review Volume, Sentiment Score
+
+
+9. Marketing Funnel & Stages
+Rafiki Pet Hospital
+Awareness Stage
+Collected data via 400 household surveys, Meta Ads Manager, competitor audits, seasonal insights, GA4 traffic validation. Metrics include impressions, reach, social mentions, and brand recall.
+
+Objective: Build strong brand presence positioning Rafiki Pet Hospital as the trusted choice for pet care. Emphasis on vaccination/grooming peaks.
+
+Channels & Metrics
+Channel	Monthly Impressions	Clicks	CTR	Notes
+Meta (FB+IG)	760,000	12,000	1.58%	Static, carousel, reels
+SEO Organic	120,000	9,600	8%	Educational blogs, location targeting
+Influencer Campaign	30,000	1,800	6%	Micro-influencers engagement
+Display Ads	50,000	750	1.5%	Local retargeting banners
+Audience Segmentation
+Pet-owning HH: 24,000; Digital Reachable: 16,800; High-value: 11,760
+Age: 25–44 (68%)
+Language: Arabic 70% / English 30%
+Dogs: 55%, Cats: 40%, Others: 5%
+Strategy
+Rotate creative daily; highlight seasonal services
+Retarget non-engaged users with carousels/videos
+Landing page optimized for lead capture
+KPIs: Impressions, Reach, Brand Recall, Social Mentions, Traffic
+Brand Awareness Lift: +12% Q1
+New Leads: 540/month
+Traffic Increase: +25% to landing pages
+Engagement Growth: 18–20%
+Conversion Potential: ~216 booked appointments
+Consideration Stage
+Behavioral data from CRM, engagement analytics, retargeting sequences on Meta Ads, video watch times, and email newsletter interactions.
+
+Goal: Engage users already aware of Rafiki Pet Hospital with educational content, nurturing emails, and retargeting sequences to guide them towards booking.
+
+Metrics & Channels
+Channel	Monthly Clicks	Leads	Engagement Rate
+Retargeting Ads	6,000	270	3.5%
+Educational Emails	4,800	192	Open rate 26% / CTR 4%
+Video Content	3,200	160	View Rate 60%
+Carousel Posts	1,800	95	CTR 1.4%
+Strategy
+Multi-step retargeting sequences with personalized messaging
+Content calendar aligned with pet owner education
+Use testimonials & social proof to reinforce trust
+KPIs: CTR, Engagement, Video Views, Leads
+Expected Outcomes
+Leads from Consideration: 216/month
+Engagement lift: +15%
+Click-to-landing page: 12,000/month
+Conversion into booked appointments: ~40% of leads
+Conversion Stage
+Data from landing page analytics, booking forms, A/B testing, CRM, pixel tracking, GA4 goal completions, and multi-step form conversion rates.
+
+Goal: Turn engaged prospects into paying clients via optimized landing pages, booking flows, social proof, and testimonials.
+
+Metrics
+Metric	Monthly	Conversion
+Landing Page Clicks	12,000	4.5% → 540 leads
+Leads → Booked	540	40% → 216 booked
+Booked → Paid	216	85% → 184 paid visits
+Average Revenue / Visit	184	EGP 750 → EGP 138,000
+Strategy
+Optimize booking form & CTA placements
+Testimonials & case studies prominently displayed
+Exit-intent popups to capture undecided leads
+KPIs: Conversion Rate, CPA, ROAS, Paid Visits
+Expected Outcomes
+184 paying clients/month
+Estimated revenue: EGP 138,000/month
+Conversion lift: +20% via CRO tactics
+Retention / Loyalty Stage
+CRM and loyalty program data analyzed; email performance tracked; repeat visit and redemption rates monitored.
+
+Goal: Encourage repeat visits via personalized offers, loyalty points, and targeted email campaigns.
+
+Metrics
+Activity	Monthly	Expected Impact
+Email Campaigns	2	Open 26% / CTR 4%
+Loyalty Rewards	12%	Repeat Appointments 68%
+Repeat Paid Visits	124	CLV increase +15%
+Strategy
+Automated birthday/seasonal emails
+VIP programs & exclusive offers
+Time-limited promotions to drive urgency
+Expected Outcomes
+Repeat visit rate +15% over baseline
+Customer lifetime value increase
+Retention Rate > 70%
+Advocacy Stage
+Data from post-purchase surveys, UGC submissions, referral tracking, social listening tools, and review monitoring.
+
+Goal: Transform satisfied clients into brand advocates to drive referrals, UGC content, and positive online reviews.
+
+Metrics
+Activity	Monthly	Expected Outcome
+Referrals	25–30	New Leads / Organic Growth
+UGC Campaign Participation	60	Enhanced Social Proof
+Review Volume	20–25	Rating >4.5/5
+Social Sentiment	—	Positive >90%
+Strategy
+Incentivized referral campaigns
+Testimonials and social proof amplified on Meta
+UGC challenges and contests
+Expected Outcomes
+Organic growth 5–7% monthly
+Increased community engagement and loyalty
+Brand advocacy leading to lower CAC
