@@ -17,21 +17,23 @@
     /* Global Paw Decorations */
     .paw-pattern {
         position: absolute;
-        font-size: 70px;
+        font-size: clamp(20px, 6vw, 80px); /* fluid scaling */
         color: rgba(0,0,139,0.1);
         z-index: 0;
         transform: rotate(15deg);
+        pointer-events: none; /* prevent interference with text */
     }
 
     .header {
-        padding: 40px;
+        padding: 20px;
         background: linear-gradient(145deg, #fdf5ed, #fceedd);
         position: relative;
         overflow: hidden;
         border-radius: 25px;
         box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-        margin: 40px auto;
+        margin: 20px auto;
         width: 90%;
+        max-width: 1000px;
         border: 10px solid #3b2f2a;
     }
 
@@ -43,53 +45,58 @@
         justify-content: center;
         gap: 20px;
         background-color: #fff9f3;
-        padding: 40px;
+        padding: 20px;
         border-radius: 25px;
         border: 2px solid #d6a77a;
         box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+        flex-wrap: wrap;
     }
 
     .header-card img {
-        height: 80px;
+        height: clamp(40px, 8vw, 80px);
         width: auto;
         border-radius: 12px;
     }
 
     .header-card h1 {
-        font-size: 48px;
+        font-size: clamp(24px, 6vw, 36px);
         font-family: 'Playfair Display', serif;
         margin: 0;
         line-height: 1.2;
         color: #5a3e36;
+        text-align: center;
     }
 
     .header-subtitle {
         position: relative;
         z-index:1;
         text-align: center;
-        margin-top: 20px;
+        margin-top: 15px;
         background-color: #fff4e6;
-        padding: 20px;
+        padding: clamp(10px, 3vw, 20px);
         border-radius: 20px;
         border: 2px solid #d6a77a;
         box-shadow: 0 6px 15px rgba(0,0,0,0.05);
-        font-size: 22px;
+        font-size: clamp(16px, 4vw, 20px);
         font-style: italic;
     }
+
 </style>
 </head>
 <body>
 
 <header class="header">
 
-    <!-- Paw Patterns -->
-    <div class="paw-pattern" style="top: -20%; left: -20%;">🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾</div>
-    <div class="paw-pattern" style="bottom: -25%; right: -15%; font-size: 60px; transform: rotate(-20deg); color: rgba(0,0,139,0.08);">🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾</div>
-    <div class="paw-pattern" style="top: 10%; right: -10%; font-size: 80px; transform: rotate(30deg); color: rgba(0,0,139,0.05);">🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾</div>
+    <!-- Paw Patterns (fluid positioning & scaling) -->
+    <div class="paw-pattern" style="top: -10%; left: -15%; transform: rotate(15deg);">🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾</div>
+    <div class="paw-pattern" style="bottom: -15%; right: -10%; transform: rotate(-20deg); color: rgba(0,0,139,0.08);">🐾 🐾 🐾 🐾 🐾 🐾 🐾</div>
+    <div class="paw-pattern" style="top: 5%; right: -5%; transform: rotate(30deg); color: rgba(0,0,139,0.05);">🐾 🐾 🐾 🐾 🐾 🐾</div>
+    <div class="paw-pattern" style="top: 50%; left: -8%; transform: rotate(-10deg); color: rgba(0,0,139,0.07);">🐾 🐾 🐾 🐾</div>
+    <div class="paw-pattern" style="bottom: 40%; right: -12%; transform: rotate(25deg); color: rgba(0,0,139,0.06);">🐾 🐾 🐾 🐾 🐾</div>
 
     <!-- Logo & Title Card -->
     <div class="header-card">
-        <img src="D:\Studying\Digital Marketing\Portfolio\campaigns\Rafiki\0.Assets\logo.png" alt="Rafiki Logo">
+        <img src="0.Assets\logo.png" alt="Rafiki Logo">
         <h1>Rafiki Vets</h1>
     </div>
 
@@ -102,6 +109,7 @@
 
 </body>
 </html>
+
 
 
 
